@@ -1,4 +1,3 @@
--- Made by Synapse512
 -- Version 0.1.0 - 8/9/26
 
 local SoundService = game:GetService("SoundService")
